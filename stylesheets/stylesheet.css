@@ -421,3 +421,21 @@ Small Device Styles
   }
 
 }
+
+/* Custom styles */
+@media screen and (min-width: 920px) {
+  .ribbon {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: 0;
+
+    box-shadow: 0 0 0 0;
+    -webkit-box-shadow: 0 0 0 0;
+    -moz-box-shadow: 0 0 0 0;
+    -o-box-shadow: 0 0 0 0;
+    -ms-box-shadow: 0 0 0 0;
+  }
+}
