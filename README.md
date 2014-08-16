@@ -20,4 +20,5 @@ Most bullet points are optional.
 * We use lexicographical ordering (symbols, digits go first)
 * Other entries are your best guidelines
 * If your company profile or job openings change – please take time to update the list
+* Describe the company in third person, eg. "Software Corp. is hiring", "They are hiring", _not_ "we are hiring"
 * Don't include a comprehensive list of projects you're working on
