@@ -17,8 +17,8 @@ Most bullet points are optional.
 
 ## Contributor guidelines
 * Try to keep your language neuteral
-* We use lexicographical ordering (symbols, digits go first)
+* We use lexicographical ordering (with symbols then digits preceeding letters)
 * Other entries are your best guidelines
-* If your company profile or job openings change – please take time to update the list
+* If your company profile or job openings change – please take time to update the entry
 * Describe the company in third person, eg. "Software Corp. is hiring", "They are hiring", _not_ "we are hiring"
 * Don't include a comprehensive list of projects you're working on
