@@ -1,6 +1,12 @@
 scalawaw.github.io
 ==================
 
+*This project is looking for a maintainer. If you are interested please ping me by
+[creating an issue][new_issue]*
+
+---
+
+
 List of companies using Scala and Scala-related technologies in Warsaw, Poland.
 
 ## Company entry structure
@@ -22,3 +28,5 @@ Most bullet points are optional.
 * If your company profile or job openings change – please take time to update the entry
 * Describe the company in third person, eg. "Software Corp. is hiring", "They are hiring", _not_ "we are hiring"
 * Don't include a comprehensive list of projects you're working on
+
+[new_issue]: https://github.com/scalawaw/scalawaw.github.io/issues/new
