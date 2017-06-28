@@ -7,7 +7,7 @@ scalawaw.github.io
 ---
 
 
-List of companies using Scala and Scala-related technologies in Warsaw, Poland.
+List of companies using Scala and Scala-related technologies in Warsaw, Poland. You can find it [here][site].
 
 ## Company entry structure
 
@@ -30,3 +30,4 @@ Most bullet points are optional.
 * Don't include a comprehensive list of projects you're working on
 
 [new_issue]: https://github.com/scalawaw/scalawaw.github.io/issues/new
+[site]: https://scalawaw.github.io
